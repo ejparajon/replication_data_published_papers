@@ -11,7 +11,7 @@ List of files:
 
 "TRIP_JAD_1980_2018.csv": This data file is used to create tables/figures in the main body/appendix of the paper. Contains data from the TRIP JournalDatabase
 
-"TRIP_BookDatabase_2000_2014": This data file is used to create tables/figures in the appendix of the paper. Contains data from the TRIP BookDatabase.
+"TRIP_BookDatabase_2000_2014.csv": This data file is used to create tables/figures in the appendix of the paper. Contains data from the TRIP BookDatabase.
 
 "Replication_Assessing the Renaissance of Individuals.R": This is the code file used to perform all of the analysis in the paper. 
 
