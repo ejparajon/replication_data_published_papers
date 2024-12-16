@@ -1,1 +1,19 @@
+README file for Epistemic Communities and Public Support for the Paris Agreement on Climate Change
 
+Analysis completed using R version 4.2.2 for Windows 10 and STATA 16.
+
+List of packages and version used:
+ stargazer_5.2.3   
+ xtable_1.8-4        
+ tidyverse_1.3.2  
+ MatchIt_4.5.3 
+ qwraps2_0.5.2
+ wesanderson_0.3.6
+
+List of files: 
+
+"final_data_both_samples.dta": This data file is used to create tables/figures in the main body/appendix of the paper. Contains data from two surveys fielded by the authors.
+
+"replication_MPP.R": This is the code file used to perform much of the analysis in the paper. 
+
+"replication_MPP_SI.DO": This is the code file used to re-create Tables 4,5,6,7,10, 11,12, and 13.  
