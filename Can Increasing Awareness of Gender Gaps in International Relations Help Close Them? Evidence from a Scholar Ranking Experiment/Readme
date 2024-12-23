@@ -24,3 +24,5 @@ List of files:
 "scholar_ranks_USA.csv": This data file is used to create tables/figures in the main body of the paper pertaining to the scholar ranking experiment. Contains survey responses from the U.S. 2017 TRIP survey.
 
 "test_df.csv": This data file is used to generate Table B.1: Using computer-generated responses to the survey shows that randomization was successfully implemented.
+
+"Gender_Balance_ISP.pdf": Pdf version of the published paper.
