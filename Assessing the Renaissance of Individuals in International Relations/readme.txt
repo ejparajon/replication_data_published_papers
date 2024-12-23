@@ -15,4 +15,4 @@ List of files:
 
 "Replication_Assessing the Renaissance of Individuals.R": This is the code file used to perform all of the analysis in the paper. 
 
-"Assessing the Renaissance of Individuals in International Relations Theory.pdf": Final article.
+"Assessing the Renaissance of Individuals in International Relations Theory.pdf": Pdf version of the published paper.
